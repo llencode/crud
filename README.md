@@ -1,4 +1,20 @@
 Create Read Update Delete Basic
+1. Login 
+2. Register 
+3. Search
+4. Create Data
+5. Delete Data
+6. Update Data
+7. Read Data
+
+
+
+
+
+
+
+
+
 
 Paypal :
 https://paypal.me/jeatreya?country.x=ID&locale.x=en_US
