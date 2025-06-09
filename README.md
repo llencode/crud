@@ -1,2 +1,1 @@
-Create Read Update Delete PHP, JS, CSS
-BASIC
+Create Read Update Delete Basic
