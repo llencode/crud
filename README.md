@@ -21,3 +21,6 @@ https://paypal.me/jeatreya?country.x=ID&locale.x=en_US
 
 Saweria :
 ![saweria](https://github.com/user-attachments/assets/9f53be51-a075-49c4-b41a-1d8b9f9b38ef)
+
+
+![saweria](https://github.com/user-attachments/assets/42430f45-2a28-4716-8563-96cff722f974)
